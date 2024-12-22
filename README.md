@@ -1,4 +1,7 @@
 ## Hi there 👋
+💻 Tech Stack:
+Lua LaTeX Markdown C C++ Python Rust Bash Script Blender NumPy Matplotlib Pandas Git GitHub Arduino Notion Unreal Engine
+
 [![goncalotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=tokyonight&show_icons=true)](https://github.com/goncalotr/github-readme-stats)
 
 
