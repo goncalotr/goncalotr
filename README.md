@@ -1,9 +1,8 @@
 ## Hi there 👋
-[![goncalotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=dark)](https://github.com/goncalotr/github-readme-stats)
+[![goncalotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=synthwave&show_icons=true)](https://github.com/goncalotr/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&layout=compact&&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=onedark)](https://github.com/goncalotr/github-readme-stats)
 <!--
 **goncalotr/goncalotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
