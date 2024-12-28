@@ -41,10 +41,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=goncalotr&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=goncalotr&icon=0&color=1)](https://visitcount.itsvg.in)<br/>
 ![Visitor Count](https://profile-counter.glitch.me/goncalotr/count.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goncalotr&label=Profile%20views&color=0e75b6&style=flat" alt="goncalotr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=goncalotr&label=Profile%20views&color=0e75b6&style=flat" alt="goncalotr" /> </p>
 
 <!--
 ## 🏆 GitHub Trophies
