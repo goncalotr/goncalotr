@@ -32,6 +32,7 @@
 ### 🎨 **Visualization**  
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8)
@@ -39,10 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goncalotr&theme=chartreuse-dark&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=goncalotr&icon=0&color=1)](https://visitcount.itsvg.in)<br/>
-![Visitor Count](https://profile-counter.glitch.me/goncalotr/count.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=goncalotr&label=Profile%20views&color=0e75b6&style=flat" alt="goncalotr" /> </p>
 
