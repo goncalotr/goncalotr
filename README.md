@@ -38,7 +38,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goncalotr&theme=chartreuse-dark&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8)
 
 <!--
 ## 🏆 GitHub Trophies
@@ -52,7 +52,6 @@
 
 
 <!--
-
 💻 Tech Stack:
 Lua LaTeX Markdown C C++ Python Rust Bash Script Blender NumPy Matplotlib Pandas Git GitHub Arduino Notion Unreal Engine
 
@@ -63,6 +62,11 @@ Lua LaTeX Markdown C C++ Python Rust Bash Script Blender NumPy Matplotlib Pandas
 
 
 <!--
+https://github.com/anuraghazra/github-readme-stats
+most used languages:
+Show more languages
+You can use the &langs_count= option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to 5 for normal & donut and 6 for other layouts.
+https://github.com/anuraghazra/github-readme-stats
 
 **goncalotr/goncalotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
