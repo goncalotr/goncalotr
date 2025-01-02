@@ -36,6 +36,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goncalotr&theme=chartreuse-dark&hide_border=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
