@@ -4,6 +4,10 @@ Welcome to my GitHub profile!
 
 I'm a mechatronics engineer from Portugal.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8" alt="Top Languages" />
+</p>
+
 ## 💻 Tech Stack  
 
 ### 🖥️ **Languages**  
@@ -64,12 +68,7 @@ I'm a mechatronics engineer from Portugal.
 
 
 
-
-
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goncalotr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -78,5 +77,3 @@ I'm a mechatronics engineer from Portugal.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=goncalotr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
