@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I'm a mechatronics engineer from Portugal.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=github_dark &hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalotr&theme=github_dark &hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" alt="Top Languages" />
 </p>
 
 ## 💻 Tech Stack  
