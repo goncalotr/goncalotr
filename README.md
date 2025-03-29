@@ -71,7 +71,15 @@ I'm a mechatronics engineer from Portugal.
 # 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalotr&theme=github_dark" alt="mystreak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goncalotr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?color=0e75b6&style=flat&logo=github&label=GitHub%20Followers&labelColor=grey&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgoncalotr&longCache=true"/>
 </p>
 
 <p align="center">
