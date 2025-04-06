@@ -88,6 +88,8 @@ Here are some of my notable projects:
   <img src="https://github-readme-stats.vercel.app/api?username=goncalotr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+**Note:** The top languages listed are based solely on my public code repositories and do not necessarily represent experience or skill level. 
+
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?color=0e75b6&style=flat&logo=github&label=GitHub%20Followers&labelColor=grey&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dgoncalotr&longCache=true"/>
 </p>
@@ -95,3 +97,4 @@ Here are some of my notable projects:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=goncalotr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
