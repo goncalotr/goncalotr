@@ -11,12 +11,11 @@ Welcome to my GitHub profile! I'm a mechatronics engineer from Portugal with a p
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,opencv,sklearn,c,cpp,cs,dotnet,rust,lua,bash,markdown,latex,git,github,githubactions,vscode,visualstudio,obsidian,notion,wordpress,arduino,raspberrypi,windows,linux,blender,unreal&perline=13" />
-
   </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalotr&show_icons=true&locale=en&layout=donut&theme=github_dark&langs_count=8&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalotr&show_icons=true&locale=en&layout=donut&theme=github_dark&langs_count=10&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
 </p>
 
 **Note:** The top languages listed are based solely on my public code repositories and do not necessarily represent experience or skill level.
