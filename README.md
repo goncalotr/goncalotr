@@ -86,7 +86,7 @@ Here are some of my notable projects:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goncalotr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goncalotr&theme=github_dark&rank_icon=percentile&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
