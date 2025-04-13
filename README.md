@@ -62,12 +62,13 @@ Here are some of my notable projects:
 
 #### Common Core
 
-- **Minishell**
-- **Pipex**
-- **fdf**
-- **push_swap**
-- **get_next_line**
-- **printf**
+- **minishell** (currenly doing)
+- **Philosophers** (currenly doing)
+- **pipex**
+- **Fdf**
+- **[push_swap]()**
+- **[get_next_line](https://github.com/goncalotr/42_get_next_line)**
+- **[printf](https://github.com/goncalotr/42_ft_printf)**
 - **[Born2beroot](https://github.com/goncalotr/42_Born2beroot)**
 - **[Libft](https://github.com/goncalotr/42_Libft)**
 
