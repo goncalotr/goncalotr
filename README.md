@@ -68,12 +68,12 @@ Here are some of my notable projects:
 - **push_swap**
 - **get_next_line**
 - **printf**
-- **Born2beroot**
-- **Libft**
+- **[Born2beroot](https://github.com/goncalotr/42_Born2beroot)**
+- **[Libft](https://github.com/goncalotr/42_Libft)**
 
 #### Other
 
-- **Common Core Libft:** Library to be used in the other C common core projects.
+- **[Common Core Libft](https://github.com/goncalotr/42_libft_v2):** Library to be used in the other C common core projects.
 
 
 
