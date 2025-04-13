@@ -62,15 +62,17 @@ Here are some of my notable projects:
 
 #### Common Core
 
-- **minishell** (currenly doing)
-- **Philosophers** (currenly doing)
-- **pipex**
-- **Fdf**
-- **[push_swap]()**
+- **[minishell](https://github.com/goncalotr/42_minishell)** (currenly doing)
+- **[Philosophers](https://github.com/goncalotr/42_Philosophers)** (currenly doing)
+- **[pipex](https://github.com/goncalotr/42_pipex)**
+- **[Fdf](https://github.com/goncalotr/42_Fdf)**
+- **[push_swap](https://github.com/goncalotr/42_push_swap)**
 - **[get_next_line](https://github.com/goncalotr/42_get_next_line)**
 - **[printf](https://github.com/goncalotr/42_ft_printf)**
 - **[Born2beroot](https://github.com/goncalotr/42_Born2beroot)**
 - **[Libft](https://github.com/goncalotr/42_Libft)**
+
+*Note: Projects currently in progress or recently completed might not have public repositories yet.*
 
 #### Other
 
