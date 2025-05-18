@@ -1,6 +1,6 @@
 <h1 align="left">Hi there👋</h1>
 
-Welcome to my GitHub profile! I'm a mechatronics engineer from Portugal with a passion for simulation, visualization and automation.
+Welcome to my GitHub profile! I'm a mechatronics engineer from Portugal passionate about simulation, visualization and robotics.
 
 #### 🚀 Quick Links
 * **[LinkedIn](https://linkedin.com/in/goncalotr)**
