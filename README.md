@@ -47,9 +47,6 @@ wordpress
 --->
 
 
-
-
-
 ## 📁 Projects
 
 Here are some of my notable projects:
