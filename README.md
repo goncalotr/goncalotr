@@ -60,8 +60,9 @@ Here are some of my notable projects:
 
 #### Common Core
 
-- **[minishell](https://github.com/goncalotr/42_minishell)** (currenly doing)
-- **[Philosophers](https://github.com/goncalotr/42_Philosophers)** (currenly doing)
+- **[NetPractice](https://github.com/goncalotr/42_NetPractice)**
+- **[minishell](https://github.com/goncalotr/42_minishell)**
+- **[Philosophers](https://github.com/goncalotr/42_Philosophers)**
 - **[pipex](https://github.com/goncalotr/42_pipex)**
 - **[Fdf](https://github.com/goncalotr/42_Fdf)**
 - **[push_swap](https://github.com/goncalotr/42_push_swap)**
