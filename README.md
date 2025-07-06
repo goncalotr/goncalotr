@@ -60,16 +60,17 @@ Here are some of my notable projects:
 
 #### Common Core
 
-- **[NetPractice](https://github.com/goncalotr/42_NetPractice)**
-- **[minishell](https://github.com/goncalotr/42_minishell)**
-- **[Philosophers](https://github.com/goncalotr/42_Philosophers)**
-- **[pipex](https://github.com/goncalotr/42_pipex)**
-- **[Fdf](https://github.com/goncalotr/42_Fdf)**
-- **[push_swap](https://github.com/goncalotr/42_push_swap)**
-- **[get_next_line](https://github.com/goncalotr/42_get_next_line)**
-- **[printf](https://github.com/goncalotr/42_ft_printf)**
-- **[Born2beroot](https://github.com/goncalotr/42_Born2beroot)**
-- **[Libft](https://github.com/goncalotr/42_Libft)**
+- Rank 4/5: **[CPP Modules]()**
+- Rank 4: **[NetPractice](https://github.com/goncalotr/42_NetPractice)**
+- Rank 3: **[minishell](https://github.com/goncalotr/42_minishell)**
+- Rank 3: **[Philosophers](https://github.com/goncalotr/42_Philosophers)**
+- Rank 2: **[pipex](https://github.com/goncalotr/42_pipex)**
+- Rank 2: **[Fdf](https://github.com/goncalotr/42_Fdf)**
+- Rank 2: **[push_swap](https://github.com/goncalotr/42_push_swap)**
+- Rank 1: **[get_next_line](https://github.com/goncalotr/42_get_next_line)**
+- Rank 1: **[printf](https://github.com/goncalotr/42_ft_printf)**
+- Rank 1: **[Born2beroot](https://github.com/goncalotr/42_Born2beroot)**
+- Rank 0: **[Libft](https://github.com/goncalotr/42_Libft)**
 
 *Note: Projects currently in progress or recently completed might not have public repositories yet.*
 
