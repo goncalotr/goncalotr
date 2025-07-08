@@ -60,7 +60,8 @@ Here are some of my notable projects:
 
 #### Common Core
 
-- Rank 4/5: **[CPP Modules]()**
+- Rank 4/5: **CPP Modules**
+- Rank 4: **miniRT**
 - Rank 4: **[NetPractice](https://github.com/goncalotr/42_NetPractice)**
 - Rank 3: **[minishell](https://github.com/goncalotr/42_minishell)**
 - Rank 3: **[Philosophers](https://github.com/goncalotr/42_Philosophers)**
